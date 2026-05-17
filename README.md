@@ -2,6 +2,8 @@
 
 GitHub Activity Monitor — учебный проект для анализа публичных репозиториев пользователя GitHub через публичный REST API.
 
+GitHub repository: https://github.com/magy13323-collab/github-activity-monitor
+
 Реализовано:
 - Задача 1: веб-утилита (HTML/CSS/JavaScript).
 - Задача 2: Python CLI + Docker для получения и сохранения статистики по репозиториям.
@@ -31,7 +33,7 @@ http://localhost:8000/web/
 
 Веб-демо публикуется через GitHub Pages из папки `web/`.
 
-Web demo: [добавить ссылку после первого деплоя GitHub Pages]
+Web demo: https://magy13323-collab.github.io/github-activity-monitor/
 
 ## Задача 2. Python + Docker
 

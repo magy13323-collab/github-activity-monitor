@@ -2,15 +2,15 @@
 
 ## Ссылка на репозиторий
 
-- [добавить ссылку]
+- https://github.com/magy13323-collab/github-activity-monitor
 
 ## Ссылка на веб-демо
 
-- [добавить ссылку]
+- https://magy13323-collab.github.io/github-activity-monitor/
 
 ## Ссылка на Google Таблицу
 
-- [добавить ссылку]
+- https://docs.google.com/spreadsheets/d/10gjX-4RTXRMi-qVaFnbrKK5YgWwECDPSDwwkTVpa0cM/edit?hl=ru&gid=0#gid=0
 
 ## Задача 1
 
@@ -48,10 +48,9 @@ GitHub Activity Monitor
 
 Пример JSON-результата:
 - `python-api/output/example_output.json`
-- [добавить ссылку/путь при финальной сдаче]
 
 Затраченное время на Задачу 2:
-- [указать время]
+- 50 минут
 
 ## Задача 3
 
@@ -73,7 +72,10 @@ GitHub Activity Monitor
 - только на просмотр.
 
 Ссылка на Google Таблицу:
-- [добавить ссылку на Google Таблицу с доступом на просмотр]
+- https://docs.google.com/spreadsheets/d/10gjX-4RTXRMi-qVaFnbrKK5YgWwECDPSDwwkTVpa0cM/edit?hl=ru&gid=0#gid=0
+
+Затраченное время на Задачу 3:
+- 1 час 10 минут
 
 ## AI workflow
 
@@ -81,4 +83,8 @@ GitHub Activity Monitor
 
 ## Затраченное время
 
-- [указать суммарное время]
+- Задача 1 — 35 минут
+- Задача 2 — 50 минут
+- Задача 3 — 1 час 10 минут
+- Документация, GitHub, деплой и финальная проверка — 25 минут
+- Итого — 3 часа
