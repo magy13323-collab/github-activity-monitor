@@ -1,0 +1,12 @@
+.venv/
+python-api/.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.idea/
+.vscode/
+python-api/output/repos.json
+python-api/output/octocat_repos.json
+python-api/output/test_result.json
+python-api/output/docker_result.json

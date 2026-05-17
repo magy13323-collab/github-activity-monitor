@@ -1,0 +1,79 @@
+﻿{
+  "summary": {
+    "username": "octocat",
+    "total_repositories": 8,
+    "total_stars": 16600,
+    "total_forks": 154300,
+    "top_languages": [
+      {
+        "language": "JavaScript",
+        "count": 3
+      },
+      {
+        "language": "Ruby",
+        "count": 2
+      },
+      {
+        "language": "CSS",
+        "count": 1
+      },
+      {
+        "language": "HTML",
+        "count": 1
+      },
+      {
+        "language": "Не указан",
+        "count": 1
+      }
+    ],
+    "sorted_by": "stars",
+    "limit": 5
+  },
+  "repositories": [
+    {
+      "name": "Spoon-Knife",
+      "description": "This repo is for demonstration purposes only.",
+      "language": "HTML",
+      "stars": 12900,
+      "forks": 151000,
+      "updated_at": "2026-05-15T11:20:45Z",
+      "url": "https://github.com/octocat/Spoon-Knife"
+    },
+    {
+      "name": "Hello-World",
+      "description": "My first repository on GitHub!",
+      "language": "Не указан",
+      "stars": 3100,
+      "forks": 2900,
+      "updated_at": "2026-04-29T08:10:12Z",
+      "url": "https://github.com/octocat/Hello-World"
+    },
+    {
+      "name": "octocat.github.io",
+      "description": "GitHub Pages for octocat",
+      "language": "CSS",
+      "stars": 180,
+      "forks": 75,
+      "updated_at": "2026-03-10T17:05:01Z",
+      "url": "https://github.com/octocat/octocat.github.io"
+    },
+    {
+      "name": "linguist-demo",
+      "description": "Demo repository for language stats",
+      "language": "JavaScript",
+      "stars": 95,
+      "forks": 23,
+      "updated_at": "2026-02-18T12:44:30Z",
+      "url": "https://github.com/octocat/linguist-demo"
+    },
+    {
+      "name": "api-samples",
+      "description": "Sample scripts for GitHub API",
+      "language": "Ruby",
+      "stars": 64,
+      "forks": 18,
+      "updated_at": "2026-01-22T06:33:19Z",
+      "url": "https://github.com/octocat/api-samples"
+    }
+  ]
+}
