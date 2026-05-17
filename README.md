@@ -29,6 +29,10 @@ python -m http.server 8000
 http://localhost:8000/web/
 ```
 
+Веб-демо публикуется через GitHub Pages из папки `web/`.
+
+Web demo: [добавить ссылку после первого деплоя GitHub Pages]
+
 ## Задача 2. Python + Docker
 
 Скрипт `python-api/main.py`:
